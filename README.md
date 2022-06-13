@@ -16,12 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [@dpes11241](https://github.com/dpes11241)
 
 
-## Steps for setup
-
-- yarn create application-name
-- yarn run dev
-- Fullscreen mode
-- Cross platform
 
 
 ## File based routing for creating About. Js
